@@ -1,24 +1,9 @@
-# README
+Turbo 8 Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1 model: Movie (title, description)
+2 endpoint: `Movies#index` & `Movies#create`
 
-Things you may want to cover:
+2 use-cases to test:
+- Turbo morph
+- Broadcast refresh
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
